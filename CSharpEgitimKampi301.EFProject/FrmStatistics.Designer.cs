@@ -601,7 +601,7 @@
             // 
             this.lblAvgLocationPrice.AutoSize = true;
             this.lblAvgLocationPrice.Font = new System.Drawing.Font("Calibri", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblAvgLocationPrice.Location = new System.Drawing.Point(104, 81);
+            this.lblAvgLocationPrice.Location = new System.Drawing.Point(58, 81);
             this.lblAvgLocationPrice.Name = "lblAvgLocationPrice";
             this.lblAvgLocationPrice.Size = new System.Drawing.Size(47, 37);
             this.lblAvgLocationPrice.TabIndex = 2;
@@ -672,7 +672,7 @@
             // 
             this.label36.AutoSize = true;
             this.label36.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label36.Location = new System.Drawing.Point(31, 35);
+            this.label36.Location = new System.Drawing.Point(21, 35);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(226, 24);
             this.label36.TabIndex = 1;
@@ -723,7 +723,7 @@
             // 
             this.lblMaxPriceLocation.AutoSize = true;
             this.lblMaxPriceLocation.Font = new System.Drawing.Font("Calibri", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.lblMaxPriceLocation.Location = new System.Drawing.Point(33, 81);
+            this.lblMaxPriceLocation.Location = new System.Drawing.Point(3, 81);
             this.lblMaxPriceLocation.Name = "lblMaxPriceLocation";
             this.lblMaxPriceLocation.Size = new System.Drawing.Size(47, 37);
             this.lblMaxPriceLocation.TabIndex = 2;

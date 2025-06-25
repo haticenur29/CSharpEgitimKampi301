@@ -12,7 +12,7 @@ namespace CSharpEgitimKampi301.DataAccessLayer.Abstract
 
         void Insert(T entity); //T türünde bir entity parametresi alsın
         void Update(T entity);
-        void Delete(int id);
+        void Delete(T entity);
         List<T> GetAll(); //bütün verileri getirecek olan GetAll isminde metot
         T GetById(int id); //T türünde GetById isminde dışarıdan int id parametresi alan bir metot tanımlamış olduk
 
